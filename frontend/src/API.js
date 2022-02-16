@@ -9,7 +9,7 @@ var baseURL;
 // } else {
 //     baseURL = "http://127.0.0.1:8000";
 // }
-baseURL = "https://backend-guide.herokuapp.com/";
+baseURL = "https://ethiopian-tourist-backend.herokuapp.com/;
 const api = axios.create({
   baseURL: baseURL,
   headers: {
