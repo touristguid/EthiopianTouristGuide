@@ -24,7 +24,7 @@ Check out [API LIVE DEMO]() here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Akshaytechis/tourist-guide.git
+git clone https://github.com/touristguid/EthiopianTouristGuide
 ```
 
 2. Backend setting
